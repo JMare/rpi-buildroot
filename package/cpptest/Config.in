@@ -1,0 +1,5 @@
+config BR2_PACKAGE_CPPTEST
+    bool "cpptest"
+    default y
+    help
+            cpptest component.
