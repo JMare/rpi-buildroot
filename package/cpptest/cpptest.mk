@@ -1,5 +1,5 @@
-CPPTEST_VERSION:= c1fdebb
-CPPTEST_SITE:= http://github.com/jmare/cpptest 
+CPPTEST_VERSION:= 9761db7
+CPPTEST_SITE:= git://github.com/jmare/cpptest 
 CPPTEST_INSTALL_TARGET:=YES
 
 define CPPTEST_BUILD_CMDS

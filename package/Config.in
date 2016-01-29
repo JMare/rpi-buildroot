@@ -1208,6 +1208,7 @@ menu "Miscellaneous"
 	source "package/snowball-init/Config.in"
 	source "package/wine/Config.in"
         source "package/cpptest/Config.in"
+        source "package/cvproj/Config.in"
 endmenu
 
 menu "Networking applications"
